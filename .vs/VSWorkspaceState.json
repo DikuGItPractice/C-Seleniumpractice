@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SpecFlowProject1Selenium",
+    "\\SpecFlowProject1Selenium\\Features"
   ],
+  "SelectedNode": "\\SpecFlowProject1Selenium\\Features\\CFFeature1Login.feature",
   "PreviewInSolutionExplorer": false
 }
