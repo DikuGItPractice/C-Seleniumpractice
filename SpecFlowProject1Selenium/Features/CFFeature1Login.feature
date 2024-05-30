@@ -1,6 +1,6 @@
 ﻿Feature: CFFeature1Login
 
-A short summary of the feature
+feature1 login functionality 
 
 @tag1
 Scenario: [scenario name]
