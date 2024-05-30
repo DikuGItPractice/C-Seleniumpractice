@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowProject1Selenium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5437cfd116c80db90658efe92c717281be01e4c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5431cd4685d9556da19894c6cb0256d84dbbc731")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowProject1Selenium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowProject1Selenium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
