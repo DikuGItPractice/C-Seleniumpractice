@@ -1,6 +1,6 @@
 ﻿Feature: CFFeature1Login
 
-feature1 login functionality 
+learning github 
 
 @tag1
 Scenario: [scenario name]
